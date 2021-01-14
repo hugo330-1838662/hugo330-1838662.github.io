@@ -1,0 +1,19 @@
+.corners-rounded {
+    border-radius:20px;
+}
+
+body {
+    background-color:orange;
+}
+
+.floated {
+    float:left;
+    color:white;
+}
+
+.floating {
+    z-index: 500;
+    position: absolute;
+    top: 100px;
+    color: white;
+}
